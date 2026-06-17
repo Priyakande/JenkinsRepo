@@ -7,7 +7,7 @@ public class ScripttoRunFromJenkins {
 	public void jenkinsDemo() {
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.google.com");
-		driver.manage().window().maximize(); //maximze window	
+		driver.manage().window().maximize(); //maximzeee window	
 		}
 	
 }
